@@ -19,7 +19,7 @@ Supported Languages:
 <img src="https://github.com/ayeshdon/CountryCodePickerLibs/blob/master/screenshot/Screenshot_20231025_095234.png" width="230">
 <img src="https://github.com/ayeshdon/CountryCodePickerLibs/blob/master/screenshot/Screenshot_20231025_095250.png" width="230">
 
-<h3> Implementation </h3>
+<h3> Example </h3>
 
 ```kotlin
  CountryPickerTextField(
